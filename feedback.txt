@@ -1,0 +1,29 @@
+Tarea 1
+Observación General:
+P1: Archivos fuente (código). Máx 4.5
+P2: Reporte de documentación. Máx 1.2
+P3: Video demostrativo. Máx 0.3
+Mensaje Personal:
+Opción E: Flight Simulator
+
+- Video demostrativo: 0.3 / 0.3
+
+- Reporte de documentación: 1.1 / 1.2
+(-0.1) No se menciona el llamado para la ejecución del programa
+
+- Código: 4.1 / 4.5
+
+Info del código:
+(-0.1) El panel de las revoluciones internas del avión vuelve a 0 cada vez que se cambia el cabeceo
+(-0.1) Es necesario apretar cada cierto tiempo los botones, no reconoce una presión constante
+(-0.2) El avión puede dar un giro en 360°
+
+
+Corregido por Nadia Decar
+4.1
+puntos
+1.1
+puntos
+0.3
+puntos
+6.5
